@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://images.food52.com/HFd0L7m7cJKft9hs07Jlex_Jm14=/1328x1328/83a1390d-b255-4dcc-8272-38d59fa5f000--2019-0207_five-two_wooden-spoons_ultimate-kitchen-spoon-set_detail_silo_rocky-luten_087.jpg);
+}
+
+.logo {
+    max-height: 80px;
+}
+
+#hero-img {
+    background-image: url(https://image.freepik.com/foto-gratis/especias-hierbas_1339-199.jpg);
+    margin: 1% 1% 1% 1%;
+    /* por topntp26 en freepik.com */
+    background-size: 100% 100%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+#hero-txt {
+    display: flex;
+    vertical-align: middle;
+}
